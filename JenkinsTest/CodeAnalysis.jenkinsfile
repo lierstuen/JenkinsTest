@@ -1,0 +1,18 @@
+﻿pipeline {
+    agent any
+    stages {
+        stage('Build') {
+            echo 'Build ...'
+        }
+        stage('Sonae') {
+            echo 'Sonar ...'
+        }
+        stage('Snyk') {
+            echo 'Snyk ...'
+        }
+        stage('Coverity') {
+            echo 'Coverity ...'
+        }
+    }
+
+}

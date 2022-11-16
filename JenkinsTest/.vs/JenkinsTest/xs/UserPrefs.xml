@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{186D7C9D-5525-4AC3-8E51-81C717256205}|Default">
-  <MonoDevelop.Ide.ItemProperties.JenkinsTest FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeAnalysis.jenkinsfile">
+    <Files>
+      <File FileName="CodeAnalysis.jenkinsfile" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JenkinsTest" expanded="True">
+            <Node name="JenkinFiles" expanded="True">
+              <Node name="/Users/jonaslierstuen/Kode/c-sharp/JenkinsTest/JenkinsTest/CodeAnalysis.jenkinsfile" selected="True" />
+            </Node>
+            <Node name="JenkinsTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JenkinsTest FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
